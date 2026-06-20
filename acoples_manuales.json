@@ -1,0 +1,1465 @@
+[
+    {
+        "line_a": "ELECTROMAN",
+        "substation_a": "EnelColombia/GORGON~1",
+        "line_b": "FIBREXA",
+        "substation_b": "EnelColombia/LA_PAZ",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "IRIARTE",
+        "substation_a": "EnelColombia/CHICALA",
+        "line_b": "ITALCOL",
+        "substation_b": "EnelColombia/MOSQUE~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "REINA",
+        "substation_a": "EnelColombia/CHICALA",
+        "line_b": "MARIA_PAZ",
+        "substation_b": "EnelColombia/TECHO",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "TINTALA",
+        "substation_a": "EnelColombia/TECHO",
+        "line_b": "VL_ALSACIA",
+        "substation_b": "EnelColombia/LA_PAZ",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "FAGUA",
+        "substation_a": "EnelColombia/CHIA",
+        "line_b": "LA_MOYA",
+        "substation_b": "EnelColombia/COTA",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "FAGUA",
+        "substation_a": "EnelColombia/CHIA",
+        "line_b": "LUCERNA",
+        "substation_b": "EnelColombia/CACIQUE",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "STA_LUCIA",
+        "substation_a": "EnelColombia/CHIA",
+        "line_b": "LUCERNA",
+        "substation_b": "EnelColombia/CACIQUE",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "LA_LORENA",
+        "substation_a": "EnelColombia/CHIA",
+        "line_b": "LA_BALSA",
+        "substation_b": "EnelColombia/CACIQUE",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "LA_LORENA",
+        "substation_a": "EnelColombia/CHIA",
+        "line_b": "VARIANTE",
+        "substation_b": "EnelColombia/CACIQUE",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "CHILACOS",
+        "substation_a": "EnelColombia/CHIA",
+        "line_b": "CANELON",
+        "substation_b": "EnelColombia/CAJICA",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "PT_PERALTA",
+        "substation_a": "EnelColombia/CHIA",
+        "line_b": "CANELON",
+        "substation_b": "EnelColombia/CAJICA",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "FONTANAR",
+        "substation_a": "EnelColombia/CHIA",
+        "line_b": "CANELON",
+        "substation_b": "EnelColombia/CAJICA",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "FONQUETA",
+        "substation_a": "EnelColombia/CHIA",
+        "line_b": "CANELON",
+        "substation_b": "EnelColombia/CAJICA",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "CHILACOS",
+        "substation_a": "EnelColombia/CHIA",
+        "line_b": "CINECOLOMB",
+        "substation_b": "EnelColombia/CENTRO~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "CENT_COMER",
+        "substation_a": "EnelColombia/CHIA",
+        "line_b": "CINECOLOMB",
+        "substation_b": "EnelColombia/CENTRO~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "SIMIJACA",
+        "substation_a": "EnelColombia/SIMIJACA",
+        "line_b": "CARUPA",
+        "substation_b": "EnelColombia/UBATE",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "SUSA",
+        "substation_a": "EnelColombia/SIMIJACA",
+        "line_b": "CHINZAQUE",
+        "substation_b": "EnelColombia/CAPELL~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "SAN_MIGUEL",
+        "substation_a": "EnelColombia/SIMIJACA",
+        "line_b": "MIÑA",
+        "substation_b": "EnelColombia/CAPELL~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "MACHETA",
+        "substation_a": "EnelColombia/LLANOS",
+        "line_b": "SISGA",
+        "substation_b": "EnelColombia/CHOCONTA",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "UBALA",
+        "substation_a": "EnelColombia/UBALA",
+        "line_b": "GAMA",
+        "substation_b": "EnelColombia/JUNIN",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "UBALA",
+        "substation_a": "EnelColombia/UBALA",
+        "line_b": "MANTA",
+        "substation_b": "EnelColombia/LLANOS",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "PALMIRA",
+        "substation_a": "EnelColombia/SUESCA",
+        "line_b": "CHECUA",
+        "substation_b": "EnelColombia/NEMOCON",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "PALMIRA",
+        "substation_a": "EnelColombia/SUESCA",
+        "line_b": "ZOCAIRE",
+        "substation_b": "EnelColombia/NEMOCON",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "ESPIGAS",
+        "substation_a": "EnelColombia/SUESCA",
+        "line_b": "SISGA",
+        "substation_b": "EnelColombia/CHOCONTA",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "LAVEGA",
+        "substation_a": "EnelColombia/SFRANC~1",
+        "line_b": "GUARUMAL",
+        "substation_b": "EnelColombia/TABACAL",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "LAVEGA",
+        "substation_a": "EnelColombia/SFRANC~1",
+        "line_b": "CHUSCAL",
+        "substation_b": "EnelColombia/TABACAL",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "MANZANOS",
+        "substation_a": "EnelColombia/TOCANC~1",
+        "line_b": "CIRUELOS",
+        "substation_b": "EnelColombia/GRANSA~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "LA_FUENTE",
+        "substation_a": "EnelColombia/TOCANC~1",
+        "line_b": "SAN_JOSE",
+        "substation_b": "EnelColombia/GACHAN~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "PNSILVANI",
+        "substation_a": "EnelColombia/TOCANC~1",
+        "line_b": "AUTODROM",
+        "substation_b": "EnelColombia/GRANSA~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "PSILVANIA",
+        "substation_a": "EnelColombia/TERMOZ~1",
+        "line_b": "PNSILVANI",
+        "substation_b": "EnelColombia/TOCANC~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "JAGUA",
+        "substation_a": "EnelColombia/MAMBITA",
+        "line_b": "PEDROJAGUA",
+        "substation_b": "EnelColombia/MEDINA",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "JAGUA",
+        "substation_a": "EnelColombia/MAMBITA",
+        "line_b": "MAYA",
+        "substation_b": "EnelColombia/PARATE~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "MAGDALENA",
+        "substation_a": "EnelColombia/CRA_QU~1",
+        "line_b": "SOLEDAD",
+        "substation_b": "EnelColombia/GORGON~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "MAGDALENA",
+        "substation_a": "EnelColombia/CRA_QU~1",
+        "line_b": "PALERMO",
+        "substation_b": "EnelColombia/CALLE_51",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "MAGDALENA",
+        "substation_a": "EnelColombia/CRA_QU~1",
+        "line_b": "CARRERA_7",
+        "substation_b": "EnelColombia/CALLE_51",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "MAGDALENA",
+        "substation_a": "EnelColombia/CRA_QU~1",
+        "line_b": "CROMOS",
+        "substation_b": "EnelColombia/SAN_FA~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "CROMOS",
+        "substation_a": "EnelColombia/SAN_FA~1",
+        "line_b": "PC_BAVARIA",
+        "substation_b": "EnelColombia/CRA_QU~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "BIBLIOTECA",
+        "substation_a": "EnelColombia/SAN_FA~1",
+        "line_b": "PLANETARIO",
+        "substation_b": "EnelColombia/CRA_QU~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "PAIBA",
+        "substation_a": "EnelColombia/SAN_FA~1",
+        "line_b": "P_QUEMAO",
+        "substation_b": "EnelColombia/SAN_JOSE",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "PEPITA",
+        "substation_a": "EnelColombia/SAN_JOSE",
+        "line_b": "MURILLO_T",
+        "substation_b": "EnelColombia/CONCOR~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "TÍA",
+        "substation_a": "EnelColombia/CONCOR~1",
+        "line_b": "SAN_ROQUE",
+        "substation_b": "EnelColombia/SAN_JOSE",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "SN_LORENZO",
+        "substation_a": "EnelColombia/CONCOR~1",
+        "line_b": "TUBOS_MORE",
+        "substation_b": "EnelColombia/AV_PRI~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "SN_LORENZO",
+        "substation_a": "EnelColombia/CONCOR~1",
+        "line_b": "BALCANES",
+        "substation_b": "EnelColombia/AV_PRI~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "GUADALUPE",
+        "substation_a": "EnelColombia/CONCOR~1",
+        "line_b": "BALCANES",
+        "substation_b": "EnelColombia/AV_PRI~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "ELPROGRESO",
+        "substation_a": "EnelColombia/BELTRAN",
+        "line_b": "CAMBAO",
+        "substation_b": "EnelColombia/VIANI",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "GRAMALOTAL",
+        "substation_a": "EnelColombia/BELTRAN",
+        "line_b": "CAMBAO",
+        "substation_b": "EnelColombia/VIANI",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "PAQUILO",
+        "substation_a": "EnelColombia/GUATAQUI",
+        "line_b": "VASQUEZ",
+        "substation_b": "EnelColombia/TOCAIMA",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "SANANTONIO",
+        "substation_a": "EnelColombia/VIOTA",
+        "line_b": "YEGUAS",
+        "substation_b": "EnelColombia/TAMARI~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "PUEBLO_NVO",
+        "substation_a": "EnelColombia/LIBERIA",
+        "line_b": "ALTO_ISNA",
+        "substation_b": "EnelColombia/LA_SAL~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "NILO",
+        "substation_a": "EnelColombia/EL_HOBAL",
+        "line_b": "PIRAMIDES",
+        "substation_b": "EnelColombia/BOQUERON",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "NILO",
+        "substation_a": "EnelColombia/EL_HOBAL",
+        "line_b": "ALTO_ISNA",
+        "substation_b": "EnelColombia/LA_SAL~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "AGUADEDIOS",
+        "substation_a": "EnelColombia/EL_HOBAL",
+        "line_b": "ALTO_ISNA",
+        "substation_b": "EnelColombia/LA_SAL~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "NILO",
+        "substation_a": "EnelColombia/EL_HOBAL",
+        "line_b": "PUEBLO_NVO",
+        "substation_b": "EnelColombia/LIBERIA",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "CUMACA",
+        "substation_a": "EnelColombia/LIBERIA",
+        "line_b": "TIBACUY",
+        "substation_b": "EnelColombia/EL_BOS~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "AGUADEDIOS",
+        "substation_a": "EnelColombia/EL_HOBAL",
+        "line_b": "ANGOSTURA",
+        "substation_b": "EnelColombia/PANAGUA",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "ISLAPEN2_P",
+        "substation_a": "EnelColombia/LA_ISLA",
+        "line_b": "ISLAPENONP",
+        "substation_b": "EnelColombia/FLANDE~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "ISLAPEN3_P",
+        "substation_a": "EnelColombia/LA_ISLA",
+        "line_b": "ISLAPENON",
+        "substation_b": "EnelColombia/FLANDE~2",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "PTOLOPEZ",
+        "substation_a": "EnelColombia/MESITAS",
+        "line_b": "YEGUAS",
+        "substation_b": "EnelColombia/TAMARI~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "QUIPILITO",
+        "substation_a": "EnelColombia/QUIPILE",
+        "line_b": "CAMBAO",
+        "substation_b": "EnelColombia/VIANI",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "VEINTIDOS",
+        "substation_a": "EnelColombia/EL_RAMAL",
+        "line_b": "SUBIA",
+        "substation_b": "EnelColombia/EL_BOS~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "SEARS",
+        "substation_a": "EnelColombia/CALLE_67",
+        "line_b": "MARLY",
+        "substation_b": "EnelColombia/CALLE_51",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "SEARS",
+        "substation_a": "EnelColombia/CALLE_67",
+        "line_b": "NVAGRANADA",
+        "substation_b": "EnelColombia/CALLE_51",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "SEARS",
+        "substation_a": "EnelColombia/CALLE_67",
+        "line_b": "C_EMPLEADO",
+        "substation_b": "EnelColombia/SALITR~2",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "TOLEDO",
+        "substation_a": "EnelColombia/CALLE_67",
+        "line_b": "LA_CABRERA",
+        "substation_b": "EnelColombia/CASTEL~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "CHICO_P",
+        "substation_a": "EnelColombia/CALLE_67",
+        "line_b": "ZONA_T",
+        "substation_b": "EnelColombia/CASTEL~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "CONSULADOS",
+        "substation_a": "EnelColombia/CALLE_67",
+        "line_b": "NOGAL",
+        "substation_b": "EnelColombia/CASTEL~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "CONSULADOS",
+        "substation_a": "EnelColombia/CALLE_67",
+        "line_b": "CIRCUNVALA",
+        "substation_b": "EnelColombia/CALLE_51",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "T_CASTIL_P",
+        "substation_a": "EnelColombia/CALLE_67",
+        "line_b": "CIRCUNVALA",
+        "substation_b": "EnelColombia/CALLE_51",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "T_CASTIL_P",
+        "substation_a": "EnelColombia/CALLE_67",
+        "line_b": "ROSALES",
+        "substation_b": "EnelColombia/CALLE_51",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "TRANVIA",
+        "substation_a": "EnelColombia/CALLE_67",
+        "line_b": "BQCALDERON",
+        "substation_b": "EnelColombia/CALLE_51",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "DRIVER",
+        "substation_a": "EnelColombia/FLORIDA",
+        "line_b": "MADRIGAL",
+        "substation_b": "EnelColombia/BOLIVIA",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "MANDARINO",
+        "substation_a": "EnelColombia/FLORIDA",
+        "line_b": "CORTIJO",
+        "substation_b": "EnelColombia/BOLIVIA",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "MORISCO",
+        "substation_a": "EnelColombia/MORATO",
+        "line_b": "CEREZOS",
+        "substation_b": "EnelColombia/BOLIVIA",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "BELL_ARTES",
+        "substation_a": "EnelColombia/MORATO",
+        "line_b": "RIONEGRO",
+        "substation_b": "EnelColombia/CASTEL~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "ILARCO",
+        "substation_a": "EnelColombia/MORATO",
+        "line_b": "AN_CONTRY",
+        "substation_b": "EnelColombia/CASTEL~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "OBRERO",
+        "substation_a": "EnelColombia/MORATO",
+        "line_b": "JJ_VARGAS",
+        "substation_b": "EnelColombia/SALITR~2",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "OBRERO",
+        "substation_a": "EnelColombia/MORATO",
+        "line_b": "GUALI",
+        "substation_b": "EnelColombia/SALITR~2",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "ESTRADA",
+        "substation_a": "EnelColombia/MORATO",
+        "line_b": "BQ_POPULAR",
+        "substation_b": "EnelColombia/SALITR~2",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "BONANZA",
+        "substation_a": "EnelColombia/MORATO",
+        "line_b": "ENCANTO",
+        "substation_b": "EnelColombia/SALITR~2",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "BOYAC_REAL",
+        "substation_a": "EnelColombia/FLORIDA",
+        "line_b": "ENCANTO",
+        "substation_b": "EnelColombia/SALITR~2",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "ACAPULCO",
+        "substation_a": "EnelColombia/FLORIDA",
+        "line_b": "NORMANDIA",
+        "substation_b": "EnelColombia/SALITR~2",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "PTE_AREREO",
+        "substation_a": "EnelColombia/FLORIDA",
+        "line_b": "ALAMOS",
+        "substation_b": "EnelColombia/SALITR~2",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "DELMAR",
+        "substation_a": "EnelColombia/FLORIDA",
+        "line_b": "ENGATIVA",
+        "substation_b": "EnelColombia/BOLIVIA",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "TAYLOR",
+        "substation_a": "EnelColombia/FLORIDA",
+        "line_b": "ENGATIVA",
+        "substation_b": "EnelColombia/BOLIVIA",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "CENTENARIO",
+        "substation_a": "EnelColombia/FONTIBON",
+        "line_b": "PESQUERO",
+        "substation_b": "EnelColombia/CHICALA",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "EMISORAS",
+        "substation_a": "EnelColombia/FONTIBON",
+        "line_b": "PESQUERO",
+        "substation_b": "EnelColombia/CHICALA",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "EMISORAS",
+        "substation_a": "EnelColombia/FONTIBON",
+        "line_b": "EM_MARIANA",
+        "substation_b": "EnelColombia/TECHO",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "URBIZA",
+        "substation_a": "EnelColombia/FONTIBON",
+        "line_b": "TINTALITO",
+        "substation_b": "EnelColombia/LA_PAZ",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "SAN_FELIPE",
+        "substation_a": "EnelColombia/FONTIBON",
+        "line_b": "PETROLERAS",
+        "substation_b": "EnelColombia/SALITR~2",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "LOS_ANGELE",
+        "substation_a": "EnelColombia/FLORIDA",
+        "line_b": "ALAMOS",
+        "substation_b": "EnelColombia/SALITR~2",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "CALLEJA",
+        "substation_a": "EnelColombia/AUTOPI~1",
+        "line_b": "ST_BEATRIZ",
+        "substation_b": "EnelColombia/USAQUEN",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "UNICENTRO",
+        "substation_a": "EnelColombia/AUTOPI~1",
+        "line_b": "LACAROLINA",
+        "substation_b": "EnelColombia/USAQUEN",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "LISBOA",
+        "substation_a": "EnelColombia/AUTOPI~1",
+        "line_b": "CLL_122",
+        "substation_b": "EnelColombia/USAQUEN",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "SPRING",
+        "substation_a": "EnelColombia/AUTOPI~1",
+        "line_b": "CORDOBA",
+        "substation_b": "EnelColombia/MORATO",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "VILLAS",
+        "substation_a": "EnelColombia/AUTOPI~1",
+        "line_b": "CALATRAVA",
+        "substation_b": "EnelColombia/MORATO",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "ED_TECNICO",
+        "substation_a": "EnelColombia/AUTOPI~1",
+        "line_b": "NIZA_VIII",
+        "substation_b": "EnelColombia/MORATO",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "ED_TECNICO",
+        "substation_a": "EnelColombia/AUTOPI~1",
+        "line_b": "ALAMEDA",
+        "substation_b": "EnelColombia/ARANJUEZ",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "RANGEL",
+        "substation_a": "EnelColombia/ARANJUEZ",
+        "line_b": "BQE_MEDINA",
+        "substation_b": "EnelColombia/USAQUEN",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "SEGOVIA",
+        "substation_a": "EnelColombia/ARANJUEZ",
+        "line_b": "BQE_MEDINA",
+        "substation_b": "EnelColombia/USAQUEN",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "MARIELA",
+        "substation_a": "EnelColombia/ARANJUEZ",
+        "line_b": "ACACIAS",
+        "substation_b": "EnelColombia/AUTOPI~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "MARIELA",
+        "substation_a": "EnelColombia/ARANJUEZ",
+        "line_b": "CENTRAL_ETB",
+        "substation_b": "EnelColombia/AUTOPI~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "GOLF",
+        "substation_a": "EnelColombia/ARANJUEZ",
+        "line_b": "VOZ_VICTOR",
+        "substation_b": "EnelColombia/AUTOPI~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "BABILONIA",
+        "substation_a": "EnelColombia/ARANJUEZ",
+        "line_b": "AMER_PIPE",
+        "substation_b": "EnelColombia/TORCA_2",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "ICATA",
+        "substation_a": "EnelColombia/ARANJUEZ",
+        "line_b": "VOZ_VICTOR",
+        "substation_b": "EnelColombia/AUTOPI~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "ICATA",
+        "substation_a": "EnelColombia/ARANJUEZ",
+        "line_b": "ARCADIA",
+        "substation_b": "EnelColombia/SUBA",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "TERRAVISTA",
+        "substation_a": "EnelColombia/SUBA",
+        "line_b": "BABILONIA",
+        "substation_b": "EnelColombia/ARANJUEZ",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "CALAZANS",
+        "substation_a": "EnelColombia/SUBA",
+        "line_b": "JORDAN",
+        "substation_b": "EnelColombia/TORCA_2",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "CARMEN",
+        "substation_a": "EnelColombia/SUBA",
+        "line_b": "ARRAYANES",
+        "substation_b": "EnelColombia/TORCA_2",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "PARCELACIO",
+        "substation_a": "EnelColombia/SUBA",
+        "line_b": "ARRAYANES",
+        "substation_b": "EnelColombia/TORCA_2",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "PARCELACIO",
+        "substation_a": "EnelColombia/SUBA",
+        "line_b": "FLORES_RIO",
+        "substation_b": "EnelColombia/COTA",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "CERRITO",
+        "substation_a": "EnelColombia/SUBA",
+        "line_b": "PORTAL",
+        "substation_b": "EnelColombia/TIBABU~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "J_N_CORPAS",
+        "substation_a": "EnelColombia/SUBA",
+        "line_b": "ALMENDROS",
+        "substation_b": "EnelColombia/TIBABU~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "PROVENZA",
+        "substation_a": "EnelColombia/SUBA",
+        "line_b": "SOTILEZA",
+        "substation_b": "EnelColombia/MORATO",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "JAPON",
+        "substation_a": "EnelColombia/TIBABU~1",
+        "line_b": "SIDAUTO",
+        "substation_b": "EnelColombia/BOLIVIA",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "J_AMARILLO",
+        "substation_a": "EnelColombia/TIBABU~1",
+        "line_b": "AFIDRO",
+        "substation_b": "EnelColombia/BOLIVIA",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "PORTAL",
+        "substation_a": "EnelColombia/TIBABU~1",
+        "line_b": "J_N_CORPAS",
+        "substation_b": "EnelColombia/SUBA",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "5TA_MERICI",
+        "substation_a": "EnelColombia/PORTUGAL",
+        "line_b": "AFIDRO",
+        "substation_b": "EnelColombia/BOLIVIA",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "VL_GRANADA",
+        "substation_a": "EnelColombia/PORTUGAL",
+        "line_b": "QUIRIGUA",
+        "substation_b": "EnelColombia/BOLIVIA",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "BILBAO",
+        "substation_a": "EnelColombia/PORTUGAL",
+        "line_b": "STA_INES",
+        "substation_b": "EnelColombia/TIBABU~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "BILBAO",
+        "substation_a": "EnelColombia/PORTUGAL",
+        "line_b": "LA_GAITANA",
+        "substation_b": "EnelColombia/TIBABU~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "VL_CINDY",
+        "substation_a": "EnelColombia/PORTUGAL",
+        "line_b": "UNIVERSAL",
+        "substation_b": "EnelColombia/TIBABU~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "VL_CINDY",
+        "substation_a": "EnelColombia/PORTUGAL",
+        "line_b": "PUERTO_SOL",
+        "substation_b": "EnelColombia/TIBABU~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "5TA_MERICI",
+        "substation_a": "EnelColombia/PORTUGAL",
+        "line_b": "CORTIJO",
+        "substation_b": "EnelColombia/BOLIVIA",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "ARZOBISPO",
+        "substation_a": "EnelColombia/PORTUGAL",
+        "line_b": "PIEDRA_VER",
+        "substation_b": "EnelColombia/TIBABU~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "ASERRIOS",
+        "substation_a": "EnelColombia/NOROES~3",
+        "line_b": "PQ_FLORIDA",
+        "substation_b": "EnelColombia/BOLIVIA",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "VILLAMERY",
+        "substation_a": "EnelColombia/NOROES~3",
+        "line_b": "INTEXMODA",
+        "substation_b": "EnelColombia/SIBERIA",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "VILLAMERY",
+        "substation_a": "EnelColombia/NOROES~3",
+        "line_b": "CLIC_80",
+        "substation_b": "EnelColombia/SIBERIA",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "ALEJANDRIA",
+        "substation_a": "EnelColombia/NOROES~3",
+        "line_b": "COLOMBINA",
+        "substation_b": "EnelColombia/SIBERIA",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "ALEJANDRIA",
+        "substation_a": "EnelColombia/NOROES~3",
+        "line_b": "LIMBALU",
+        "substation_b": "EnelColombia/SABANI~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "EL_CAIRO",
+        "substation_a": "EnelColombia/NOROES~3",
+        "line_b": "FLORAMERICA",
+        "substation_b": "EnelColombia/MOSQUE~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "EL_CAIRO",
+        "substation_a": "EnelColombia/NOROES~3",
+        "line_b": "PALMACERA",
+        "substation_b": "EnelColombia/LA_PUNTA",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "SECRESALUD",
+        "substation_a": "EnelColombia/VERAGUAS",
+        "line_b": "PALONEGRO",
+        "substation_b": "EnelColombia/SAN_JOSE",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "STA_ISABEL",
+        "substation_a": "EnelColombia/VERAGUAS",
+        "line_b": "EDITORIAL",
+        "substation_b": "EnelColombia/SAN_JOSE",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "STA_ISABEL",
+        "substation_a": "EnelColombia/VERAGUAS",
+        "line_b": "PALETAS",
+        "substation_b": "EnelColombia/SAN_JOSE",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "AVENIDA_3",
+        "substation_a": "EnelColombia/VERAGUAS",
+        "line_b": "PALETAS",
+        "substation_b": "EnelColombia/SAN_JOSE",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "AVENIDA_6",
+        "substation_a": "EnelColombia/VERAGUAS",
+        "line_b": "PALETAS",
+        "substation_b": "EnelColombia/SAN_JOSE",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "OBRAS_ETB",
+        "substation_a": "EnelColombia/VERAGUAS",
+        "line_b": "PALETAS",
+        "substation_b": "EnelColombia/SAN_JOSE",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "STA_ISABEL",
+        "substation_a": "EnelColombia/VERAGUAS",
+        "line_b": "EDUARDO_ST",
+        "substation_b": "EnelColombia/AV_PRI~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "STA_ISABEL",
+        "substation_a": "EnelColombia/VERAGUAS",
+        "line_b": "IMPRE_NAL",
+        "substation_b": "EnelColombia/AV_PRI~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "LAASUNCION",
+        "substation_a": "EnelColombia/VERAGUAS",
+        "line_b": "RESTREPO",
+        "substation_b": "EnelColombia/AV_PRI~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "VILLA_INES",
+        "substation_a": "EnelColombia/VERAGUAS",
+        "line_b": "CIU_MONTES",
+        "substation_b": "EnelColombia/MUZU",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "ST_MATILDE",
+        "substation_a": "EnelColombia/VERAGUAS",
+        "line_b": "CIU_MONTES",
+        "substation_b": "EnelColombia/MUZU",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "ST_MATILDE",
+        "substation_a": "EnelColombia/VERAGUAS",
+        "line_b": "CORUÑA",
+        "substation_b": "EnelColombia/MUZU",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "ST_MATILDE",
+        "substation_a": "EnelColombia/VERAGUAS",
+        "line_b": "ALQUERIA",
+        "substation_b": "EnelColombia/MUZU",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "TEJAR",
+        "substation_a": "EnelColombia/VERAGUAS",
+        "line_b": "PL_AMERICA",
+        "substation_b": "EnelColombia/MUZU",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "SECRESALUD",
+        "substation_a": "EnelColombia/VERAGUAS",
+        "line_b": "AV_BOYACA",
+        "substation_b": "EnelColombia/TECHO",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "SECRESALUD",
+        "substation_a": "EnelColombia/VERAGUAS",
+        "line_b": "HORIZONTE",
+        "substation_b": "EnelColombia/TECHO",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "CAMELIA",
+        "substation_a": "EnelColombia/VERAGUAS",
+        "line_b": "GUTEMBERTO",
+        "substation_b": "EnelColombia/LA_PAZ",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "GALAN",
+        "substation_a": "EnelColombia/VERAGUAS",
+        "line_b": "GUTEMBERTO",
+        "substation_b": "EnelColombia/LA_PAZ",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "MADERPLAS",
+        "substation_a": "EnelColombia/VERAGUAS",
+        "line_b": "CAFE_COLON",
+        "substation_b": "EnelColombia/LA_PAZ",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "CONSTRUIR",
+        "substation_a": "EnelColombia/MUZU",
+        "line_b": "LAASUNCION",
+        "substation_b": "EnelColombia/VERAGUAS",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "SULTANA",
+        "substation_a": "EnelColombia/MUZU",
+        "line_b": "LAASUNCION",
+        "substation_b": "EnelColombia/VERAGUAS",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "SULTANA",
+        "substation_a": "EnelColombia/MUZU",
+        "line_b": "RESTREPO",
+        "substation_b": "EnelColombia/AV_PRI~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "SULTANA",
+        "substation_a": "EnelColombia/MUZU",
+        "line_b": "LUNA_PARK",
+        "substation_b": "EnelColombia/AV_PRI~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "SULTANA",
+        "substation_a": "EnelColombia/MUZU",
+        "line_b": "OLAYA",
+        "substation_b": "EnelColombia/SAN_CA~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "INGLES_BC",
+        "substation_a": "EnelColombia/MUZU",
+        "line_b": "QUIROGA",
+        "substation_b": "EnelColombia/SAN_CA~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "INGLES_BC",
+        "substation_a": "EnelColombia/MUZU",
+        "line_b": "CLARET",
+        "substation_b": "EnelColombia/SAN_CA~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "INGLES_BC",
+        "substation_a": "EnelColombia/MUZU",
+        "line_b": "MARISCAL",
+        "substation_b": "EnelColombia/TUNAL",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "LIBERTADOR",
+        "substation_a": "EnelColombia/MUZU",
+        "line_b": "MARISCAL",
+        "substation_b": "EnelColombia/TUNAL",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "SN_VICENTE",
+        "substation_a": "EnelColombia/MUZU",
+        "line_b": "ONTARIO",
+        "substation_b": "EnelColombia/TUNAL",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "FATIMA",
+        "substation_a": "EnelColombia/MUZU",
+        "line_b": "ONTARIO",
+        "substation_b": "EnelColombia/TUNAL",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "FATIMA",
+        "substation_a": "EnelColombia/MUZU",
+        "line_b": "CROYDON",
+        "substation_b": "EnelColombia/TUNAL",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "VENECIA",
+        "substation_a": "EnelColombia/MUZU",
+        "line_b": "CROYDON",
+        "substation_b": "EnelColombia/TUNAL",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "DELICIAS",
+        "substation_a": "EnelColombia/MUZU",
+        "line_b": "BOITA",
+        "substation_b": "EnelColombia/BOSA",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "ALQUERIA",
+        "substation_a": "EnelColombia/MUZU",
+        "line_b": "ST_MATILDE",
+        "substation_b": "EnelColombia/VERAGUAS",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "LAVIRGEN",
+        "substation_a": "EnelColombia/LA_VIR~1",
+        "line_b": "AGRONOMICO",
+        "substation_b": "EnelColombia/APULO",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "LAVIRGEN",
+        "substation_a": "EnelColombia/LA_VIR~1",
+        "line_b": "QUIPILITO",
+        "substation_b": "EnelColombia/QUIPILE",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "LAVIRGEN",
+        "substation_a": "EnelColombia/LA_VIR~1",
+        "line_b": "CAMBAO",
+        "substation_b": "EnelColombia/VIANI",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "QUIPILITO",
+        "substation_a": "EnelColombia/QUIPILE",
+        "line_b": "LA_SIERRA",
+        "substation_b": "EnelColombia/VIANI",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "QUIPILITO",
+        "substation_a": "EnelColombia/QUIPILE",
+        "line_b": "CORRALEJAS",
+        "substation_b": "EnelColombia/ANOLAIMA",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "ANATOLI",
+        "substation_a": "EnelColombia/ESPERA~1",
+        "line_b": "COOSAMPRA",
+        "substation_b": "EnelColombia/MESITAS",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "MESAAUXISA",
+        "substation_a": "EnelColombia/COLEGI~1",
+        "line_b": "LAVIRGEN",
+        "substation_b": "EnelColombia/LA_VIR~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "LA_CEIBA",
+        "substation_a": "EnelColombia/MESA",
+        "line_b": "PALOEMANGO",
+        "substation_b": "EnelColombia/TAMARI~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "PICOTA",
+        "substation_a": "EnelColombia/USME",
+        "line_b": "STA_MARTA",
+        "substation_b": "EnelColombia/VICTORIA",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "PICOTA",
+        "substation_a": "EnelColombia/USME",
+        "line_b": "TUNJUELITO",
+        "substation_b": "EnelColombia/SAN_CA~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "PICOTA",
+        "substation_a": "EnelColombia/USME",
+        "line_b": "MOCHUELO",
+        "substation_b": "EnelColombia/SAN_CA~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "NACIONES_U",
+        "substation_a": "EnelColombia/USME",
+        "line_b": "MARANDU",
+        "substation_b": "EnelColombia/TUNAL",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "SIBATE",
+        "substation_a": "EnelColombia/MUNA",
+        "line_b": "HELIOS",
+        "substation_b": "EnelColombia/SAN_MA~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "SIBATE",
+        "substation_a": "EnelColombia/MUNA",
+        "line_b": "HORNOS",
+        "substation_b": "EnelColombia/USME",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "SIBATE",
+        "substation_a": "EnelColombia/MUNA",
+        "line_b": "SOACHA",
+        "substation_b": "EnelColombia/CHARQU~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "ALICACHIN",
+        "substation_a": "EnelColombia/MUNA",
+        "line_b": "SOACHA",
+        "substation_b": "EnelColombia/CHARQU~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "PARQ_MUÑA",
+        "substation_a": "EnelColombia/MUNA",
+        "line_b": "CANOAS",
+        "substation_b": "EnelColombia/CHARQU~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "CANOAS",
+        "substation_a": "EnelColombia/CHARQU~1",
+        "line_b": "SALTOCADEN",
+        "substation_b": "EnelColombia/STNDER~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "SOACHA",
+        "substation_a": "EnelColombia/CHARQU~1",
+        "line_b": "CIU_LATINA",
+        "substation_b": "EnelColombia/INDUMIL",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "FUSUNGA",
+        "substation_a": "EnelColombia/COMPAR~1",
+        "line_b": "CONALVIDRIOS",
+        "substation_b": "EnelColombia/MUNA",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "CHUSQUE",
+        "substation_a": "EnelColombia/COMPAR~1",
+        "line_b": "POLICARPA",
+        "substation_b": "EnelColombia/SAN_MA~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "BENJI",
+        "substation_a": "EnelColombia/COMPAR~1",
+        "line_b": "ISLANDIA",
+        "substation_b": "EnelColombia/CHICALA",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "LA_POMA",
+        "substation_a": "EnelColombia/COMPAR~1",
+        "line_b": "CIU_VERDE",
+        "substation_b": "EnelColombia/INDUMIL",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "ROCOSOS",
+        "substation_a": "EnelColombia/COMPAR~1",
+        "line_b": "SATELITE",
+        "substation_b": "EnelColombia/INDUMIL",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "ROCOSOS",
+        "substation_a": "EnelColombia/COMPAR~1",
+        "line_b": "UNIMINUTO",
+        "substation_b": "EnelColombia/COMPAR~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "HILANDERIA",
+        "substation_a": "EnelColombia/BOSA",
+        "line_b": "CAZUCA",
+        "substation_b": "EnelColombia/SAN_MA~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "LLOREDA",
+        "substation_a": "EnelColombia/BOSA",
+        "line_b": "ANTONIA",
+        "substation_b": "EnelColombia/CHICALA",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "APOGEO",
+        "substation_a": "EnelColombia/BOSA",
+        "line_b": "BONIFACIO",
+        "substation_b": "EnelColombia/CHICALA",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "APOGEO",
+        "substation_a": "EnelColombia/BOSA",
+        "line_b": "ARGELIA",
+        "substation_b": "EnelColombia/CHICALA",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "SIE_MORENA",
+        "substation_a": "EnelColombia/BOSA",
+        "line_b": "FRANCISCO",
+        "substation_b": "EnelColombia/TUNAL",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "ISLA_SOL",
+        "substation_a": "EnelColombia/BOSA",
+        "line_b": "LARELIQUIA",
+        "substation_b": "EnelColombia/TECHO",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "TIMIZA",
+        "substation_a": "EnelColombia/BOSA",
+        "line_b": "AYACUCHO",
+        "substation_b": "EnelColombia/TECHO",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "CARIMA_ETB",
+        "substation_a": "EnelColombia/BOSA",
+        "line_b": "SINAI",
+        "substation_b": "EnelColombia/TECHO",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "CASA_BLANC",
+        "substation_a": "EnelColombia/BOSA",
+        "line_b": "ARBOLETE",
+        "substation_b": "EnelColombia/CHICALA",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "CASA_BLANC",
+        "substation_a": "EnelColombia/BOSA",
+        "line_b": "A_MEJIA",
+        "substation_b": "EnelColombia/CHICALA",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "CASA_BLANC",
+        "substation_a": "EnelColombia/BOSA",
+        "line_b": "ARGELIA",
+        "substation_b": "EnelColombia/CHICALA",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "SAN_JORGE",
+        "substation_a": "EnelColombia/ZIPAQU~1",
+        "line_b": "PORTACHUEL",
+        "substation_b": "EnelColombia/EL_SOL",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "REBANO",
+        "substation_a": "EnelColombia/EL_SOL",
+        "line_b": "LEONA",
+        "substation_b": "EnelColombia/NEL_AL~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "REBANO",
+        "substation_a": "EnelColombia/EL_SOL",
+        "line_b": "SAGAMASA",
+        "substation_b": "EnelColombia/SINDAM~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "FIBREXA",
+        "substation_a": "EnelColombia/LA_PAZ",
+        "line_b": "INVERPOSAS",
+        "substation_b": "EnelColombia/TERMINAL",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "CHOACHI_UR",
+        "substation_a": "EnelColombia/CHOACHI",
+        "line_b": "GUADALUPE",
+        "substation_b": "EnelColombia/CONCOR~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "COVIANDES",
+        "substation_a": "EnelColombia/CAQUEZA",
+        "line_b": "EL_RODEO",
+        "substation_b": "EnelColombia/CALERA",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "UNILUZ",
+        "substation_a": "EnelColombia/BOSA",
+        "line_b": "VITOL_UF08",
+        "substation_b": "EnelColombia/COMPAR~1",
+        "comment": "Creado desde la UI"
+    },
+    {
+        "line_a": "COLMOTORES",
+        "substation_a": "EnelColombia/BOSA",
+        "line_b": "USME",
+        "substation_b": "EnelColombia/SANTA_~1",
+        "comment": "Creado desde la UI"
+    }
+]

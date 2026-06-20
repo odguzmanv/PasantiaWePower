@@ -1,0 +1,303 @@
+--- REPORTE DE NORMALIZACIÓN DE LÍNEAS ---
+
+Subestación: EnelColombia/AERONA1, Nombre Nuevo: AERONAUTI, Nombre Anterior: AERONAUTI3
+	Subestaciones que matchean: AEROPU~1
+
+Subestación: EnelColombia/AERONA1, Nombre Nuevo: AERONAUTI, Nombre Anterior: AERONAUTI5
+	Subestaciones que matchean: AEROPU~1
+
+Subestación: EnelColombia/AERONA1, Nombre Nuevo: PRINTER, Nombre Anterior: PRINTER3
+	Subestaciones que matchean: AEROPU~2, FONTIBON
+
+Subestación: EnelColombia/AERONA1, Nombre Nuevo: PRINTER, Nombre Anterior: PRINTER5
+	Subestaciones que matchean: AEROPU~2, FONTIBON
+
+Subestación: EnelColombia/AEROPU~1, Nombre Nuevo: AERONAUTI, Nombre Anterior: AERONAUTI1
+	Subestaciones que matchean: AERONA1
+
+Subestación: EnelColombia/AEROPU~1, Nombre Nuevo: AERONAUTI, Nombre Anterior: AERONAUTI2
+	Subestaciones que matchean: AERONA1
+
+Subestación: EnelColombia/AEROPU~1, Nombre Nuevo: AERONAUTI, Nombre Anterior: AERONAUTI4
+	Subestaciones que matchean: AERONA1
+
+Subestación: EnelColombia/AEROPU~1, Nombre Nuevo: AEROPURT, Nombre Anterior: AEROPURT3
+	Subestaciones que matchean: AEROPU~2
+
+Subestación: EnelColombia/AEROPU~2, Nombre Nuevo: AEROPURT, Nombre Anterior: AEROPURT1
+	Subestaciones que matchean: AEROPU~1
+
+Subestación: EnelColombia/AEROPU~2, Nombre Nuevo: AEROPURT, Nombre Anterior: AEROPURT2
+	Subestaciones que matchean: AEROPU~1
+
+Subestación: EnelColombia/AEROPU~2, Nombre Nuevo: AEROPURT, Nombre Anterior: AEROPURT4
+	Subestaciones que matchean: AEROPU~1
+
+Subestación: EnelColombia/AEROPU~2, Nombre Nuevo: AEROPURT, Nombre Anterior: AEROPURT4
+	Subestaciones que matchean: AEROPU~1
+
+Subestación: EnelColombia/AEROPU~2, Nombre Nuevo: PRINTER, Nombre Anterior: PRINTER1
+	Subestaciones que matchean: AERONA1, FONTIBON
+
+Subestación: EnelColombia/AEROPU~2, Nombre Nuevo: PRINTER, Nombre Anterior: PRINTER2
+	Subestaciones que matchean: AERONA1, FONTIBON
+
+Subestación: EnelColombia/AEROPU~2, Nombre Nuevo: PROPIEDADDELAEROPUERTO, Nombre Anterior: PROPIEDAD DEL AEROPUERTO
+
+Subestación: EnelColombia/AEROPU~2, Nombre Nuevo: PROPIEDADDELAEROPUERTO, Nombre Anterior: PROPIEDAD DEL AEROPUERTO
+
+Subestación: EnelColombia/ALBAN, Nombre Nuevo: ALBANOLA, Nombre Anterior: ALBANOLA2
+	Subestaciones que matchean: ANOLAIMA, FACA
+
+Subestación: EnelColombia/ALBAN, Nombre Nuevo: ALBANOLA, Nombre Anterior: ALBANOLA3
+	Subestaciones que matchean: ANOLAIMA, FACA
+
+Subestación: EnelColombia/ALTO_T~1, Nombre Nuevo: ELTRIGO, Nombre Anterior: EL TRIGO
+
+Subestación: EnelColombia/ALTO_T~1, Nombre Nuevo: VILLETA, Nombre Anterior: VILLETA3
+	Subestaciones que matchean: CAYUNDA, GUADUAS, UTICA, VILLETA
+
+Subestación: EnelColombia/ANOLAIMA, Nombre Nuevo: ALBANOLA, Nombre Anterior: ALBANOLA1
+	Subestaciones que matchean: ALBAN, FACA
+
+Subestación: EnelColombia/APULO, Nombre Nuevo: ANAPOIMA, Nombre Anterior: ANAPOIMA3
+	Subestaciones que matchean: LA_SAL~1, TAMARI~1, TOCAIMA
+
+Subestación: EnelColombia/APULO, Nombre Nuevo: ANAPOIMA, Nombre Anterior: ANAPOIMA4
+	Subestaciones que matchean: LA_SAL~1, TAMARI~1, TOCAIMA
+
+Subestación: EnelColombia/ARBOLEDA, Nombre Nuevo: EMPOCUNDI, Nombre Anterior: EMPOCUNDI1
+	Subestaciones que matchean: CARTAG~1
+
+Subestación: EnelColombia/ARBOLEDA, Nombre Nuevo: MOYANO, Nombre Anterior: MOYANO1
+	Subestaciones que matchean: FACA
+
+Subestación: EnelColombia/AUTOPI~1, Nombre Nuevo: TRANSV, Nombre Anterior: TRANSV_30
+
+Subestación: EnelColombia/BALMORAL, Nombre Nuevo: MAZUERA, Nombre Anterior: MAZUERA1
+	Subestaciones que matchean: SAN_JO~1, SAUCES
+
+Subestación: EnelColombia/BALMORAL, Nombre Nuevo: MAZUERA, Nombre Anterior: MAZUERA2
+	Subestaciones que matchean: SAN_JO~1, SAUCES
+
+Subestación: EnelColombia/BELLAV~1, Nombre Nuevo: SUMAPAZ, Nombre Anterior: SUMAPAZ3
+	Subestaciones que matchean: CABRERA, LA_UNION, MOVIL_~1, PORTONES, SAUCES
+
+Subestación: EnelColombia/BOQUERON, Nombre Nuevo: PISIMBALA, Nombre Anterior: PISIMBALA3
+	Subestaciones que matchean: CHINAUTA, SAUCES
+
+Subestación: EnelColombia/BOQUERON, Nombre Nuevo: PISIMBALA, Nombre Anterior: PISIMBALA4
+	Subestaciones que matchean: CHINAUTA, SAUCES
+
+Subestación: EnelColombia/CABRERA, Nombre Nuevo: SUMAPAZ, Nombre Anterior: SUMAPAZ5
+	Subestaciones que matchean: BELLAV~1, LA_UNION, MOVIL_~1, PORTONES, SAUCES
+
+Subestación: EnelColombia/CACICA~1, Nombre Nuevo: CACICAZGO, Nombre Anterior: CACICAZGO1
+	Subestaciones que matchean: SUESCA
+
+Subestación: EnelColombia/CACICA~1, Nombre Nuevo: CACICAZGO, Nombre Anterior: CACICAZGO2
+	Subestaciones que matchean: SUESCA
+
+Subestación: EnelColombia/CACICA~1, Nombre Nuevo: CACICAZGO, Nombre Anterior: CACICAZGO3
+	Subestaciones que matchean: SUESCA
+
+Subestación: EnelColombia/CACIQUE, Nombre Nuevo: NOVICIADO, Nombre Anterior: NOVICIADO2
+	Subestaciones que matchean: CHIA, COTA
+
+Subestación: EnelColombia/CACIQUE, Nombre Nuevo: NOVICIADO, Nombre Anterior: NOVICIADO3
+	Subestaciones que matchean: CHIA, COTA
+
+Subestación: EnelColombia/CAJICA, Nombre Nuevo: BARVAL, Nombre Anterior: BARVAL4
+	Subestaciones que matchean: CHIA, P_ALQU~1, SINDAM~1
+
+Subestación: EnelColombia/CAJICA, Nombre Nuevo: VOLMO, Nombre Anterior: VOLMO_2
+	Subestaciones que matchean: EL_SOL2
+
+Subestación: EnelColombia/CAPARR~1, Nombre Nuevo: LA_PALMA, Nombre Anterior: LA_PALMA3
+	Subestaciones que matchean: LA_PALMA, SALAMINA, VILLETA, YACOPI
+
+Subestación: EnelColombia/CAPARR~1, Nombre Nuevo: LA_PALMA, Nombre Anterior: LA_PALMA4
+	Subestaciones que matchean: LA_PALMA, SALAMINA, VILLETA, YACOPI
+
+Subestación: EnelColombia/CAPELL~1, Nombre Nuevo: CAPELLANI, Nombre Anterior: CAPELLANI1
+	Subestaciones que matchean: GUACHETA, RABANAL
+
+Subestación: EnelColombia/CARTAG~1, Nombre Nuevo: EMPOCUNDI, Nombre Anterior: EMPOCUNDI3
+	Subestaciones que matchean: ARBOLEDA
+
+Subestación: EnelColombia/CARULLA, Nombre Nuevo: CARULLA, Nombre Anterior: CARULLA1
+	Subestaciones que matchean: AUTOPI~1
+
+Subestación: EnelColombia/CARULLA, Nombre Nuevo: CARULLA, Nombre Anterior: CARULLA2
+	Subestaciones que matchean: AUTOPI~1
+
+Subestación: EnelColombia/CARULLA, Nombre Nuevo: CARULLA, Nombre Anterior: CARULLA3
+	Subestaciones que matchean: AUTOPI~1
+
+Subestación: EnelColombia/CARULLA, Nombre Nuevo: CARULLA, Nombre Anterior: CARULLA4
+	Subestaciones que matchean: AUTOPI~1
+
+Subestación: EnelColombia/CAYUNDA, Nombre Nuevo: VILLETA, Nombre Anterior: VILLETA1
+	Subestaciones que matchean: ALTO_T~1, GUADUAS, UTICA, VILLETA
+
+Subestación: EnelColombia/CAYUNDA, Nombre Nuevo: VILLETA, Nombre Anterior: VILLETA2
+	Subestaciones que matchean: ALTO_T~1, GUADUAS, UTICA, VILLETA
+
+Subestación: EnelColombia/CAYUNDA, Nombre Nuevo: VILLETA, Nombre Anterior: VILLETA5
+	Subestaciones que matchean: ALTO_T~1, GUADUAS, UTICA, VILLETA
+
+Subestación: EnelColombia/CAYUNDA, Nombre Nuevo: VILLETA, Nombre Anterior: VILLETA7
+	Subestaciones que matchean: ALTO_T~1, GUADUAS, UTICA, VILLETA
+
+Subestación: EnelColombia/CENTRO~1, Nombre Nuevo: CC_CHIA, Nombre Anterior: CC_CHIA1
+	Subestaciones que matchean: CHIA
+
+Subestación: EnelColombia/CENTRO~1, Nombre Nuevo: PTE_COMUN, Nombre Anterior: PTE_COMUN2
+	Subestaciones que matchean: CHIA
+
+Subestación: EnelColombia/CHOACHI, Nombre Nuevo: COVIANDES, Nombre Anterior: COVIANDES5
+	Subestaciones que matchean: CAQUEZA, FOMEQUE, QUETAME, RESGUA~1
+
+Subestación: EnelColombia/CHOCONTA, Nombre Nuevo: VILLAPINZ, Nombre Anterior: VILLAPINZ1
+	Subestaciones que matchean: VILLAP~1
+
+Subestación: EnelColombia/CHOCONTA, Nombre Nuevo: VILLAPINZ, Nombre Anterior: VILLAPINZ2
+	Subestaciones que matchean: VILLAP~1
+
+Subestación: EnelColombia/COMPAR~1, Nombre Nuevo: VITOL_UF, Nombre Anterior: VITOL_UF08
+
+Subestación: EnelColombia/CONCOR~1, Nombre Nuevo: MULTIFAM, Nombre Anterior: MULTIFAM_1
+
+Subestación: EnelColombia/COND_P~1, Nombre Nuevo: ISLAPENON, Nombre Anterior: ISLAPENON4
+	Subestaciones que matchean: EL_PAL~1, FLANDE~2
+
+Subestación: EnelColombia/CORZO, Nombre Nuevo: FACA, Nombre Anterior: FACA1
+	Subestaciones que matchean: BALSIL~1
+
+Subestación: EnelColombia/CORZO, Nombre Nuevo: FACA, Nombre Anterior: FACA2
+	Subestaciones que matchean: BALSIL~1
+
+Subestación: EnelColombia/COTA, Nombre Nuevo: NOVICIADO, Nombre Anterior: NOVICIADO4
+	Subestaciones que matchean: CACIQUE, CHIA
+
+Subestación: EnelColombia/COTA, Nombre Nuevo: NOVICIADO, Nombre Anterior: NOVICIADO5
+	Subestaciones que matchean: CACIQUE, CHIA
+
+Subestación: EnelColombia/CRA_QU~1, Nombre Nuevo: URBANO--CR, Nombre Anterior: URBANO--CR16
+
+Subestación: EnelColombia/CUCUNUBA, Nombre Nuevo: ORIENTE, Nombre Anterior: ORIENTE2
+	Subestaciones que matchean: RABANAL, UBATE
+
+Subestación: EnelColombia/CUCUNUBA, Nombre Nuevo: ORIENTE, Nombre Anterior: ORIENTE3
+	Subestaciones que matchean: RABANAL, UBATE
+
+Subestación: EnelColombia/DIAMANTE, Nombre Nuevo: GIRARDOT, Nombre Anterior: GIRARDOT3
+	Subestaciones que matchean: GUATAQUI, JMCORD~1, MANGOS, PANAGUA
+
+Subestación: EnelColombia/DIAMANTE, Nombre Nuevo: GIRARDOT, Nombre Anterior: GIRARDOT4
+	Subestaciones que matchean: GUATAQUI, JMCORD~1, MANGOS, PANAGUA
+
+Subestación: EnelColombia/DIAMANTE, Nombre Nuevo: GIRARDOT, Nombre Anterior: GIRARDOT5
+	Subestaciones que matchean: GUATAQUI, JMCORD~1, MANGOS, PANAGUA
+
+Subestación: EnelColombia/EL_BOS~1, Nombre Nuevo: GRANADA, Nombre Anterior: GRANADA1
+	Subestaciones que matchean: ARBELAEZ, MOVIL_~1, MUNA
+
+Subestación: EnelColombia/EL_BOS~1, Nombre Nuevo: GRANADA, Nombre Anterior: GRANADA2
+	Subestaciones que matchean: ARBELAEZ, MOVIL_~1, MUNA
+
+Subestación: EnelColombia/EL_BOS~1, Nombre Nuevo: GRANADA, Nombre Anterior: GRANADA9
+	Subestaciones que matchean: ARBELAEZ, MOVIL_~1, MUNA
+
+Subestación: EnelColombia/EL_HATO, Nombre Nuevo: MESASUX, Nombre Anterior: MESASUX_1
+
+Subestación: EnelColombia/EL_HOBAL, Nombre Nuevo: PENAGUA, Nombre Anterior: PENAGUA8
+	Subestaciones que matchean: FLANDE~2, JMCORD~1, LA_ISLA, PENALISA
+
+Subestación: EnelColombia/EL_PAL~1, Nombre Nuevo: ISLAPENON, Nombre Anterior: ISLAPENON1
+	Subestaciones que matchean: COND_P~1, FLANDE~2
+
+Subestación: EnelColombia/EL_PAR~1, Nombre Nuevo: COLPARAIS, Nombre Anterior: COLPARAIS1
+
+Subestación: EnelColombia/EL_PAR~1, Nombre Nuevo: GUA_PAR, Nombre Anterior: GUA_PAR2
+
+Subestación: EnelColombia/EL_PENON, Nombre Nuevo: PACHOALAPALMA, Nombre Anterior: PACHO A LA PALMA
+
+Subestación: EnelColombia/EL_ROSAL, Nombre Nuevo: BIMBO, Nombre Anterior: BIMBO3
+	Subestaciones que matchean: LA_PUNTA, SABANI~1, TABACAL, TENJO, TORIBA
+
+Subestación: EnelColombia/EL_ROSAL, Nombre Nuevo: LA_PAMPA, Nombre Anterior: LA_PAMPA1
+	Subestaciones que matchean: MOSQUE~2
+
+Subestación: EnelColombia/ESMERA~1, Nombre Nuevo: TERPEL, Nombre Anterior: TERPEL1
+	Subestaciones que matchean: FACA
+
+Subestación: EnelColombia/ESPERA~1, Nombre Nuevo: ESPERANZA, Nombre Anterior: ESPERANZA2
+	Subestaciones que matchean: COLEGI~1, MESA, QUIPILE
+
+Subestación: EnelColombia/ESPERA~1, Nombre Nuevo: SANFERNANDO, Nombre Anterior: SAN FERNANDO
+
+Subestación: EnelColombia/FERRERIA, Nombre Nuevo: PACHO, Nombre Anterior: PACHO7
+	Subestaciones que matchean: EL_PENON, EL_SOL2, LA_DOR~1, LA_PALMA, VILLAG~1
+
+Subestación: EnelColombia/FERRERIA, Nombre Nuevo: PACHO, Nombre Anterior: PACHO8
+	Subestaciones que matchean: EL_PENON, EL_SOL2, LA_DOR~1, LA_PALMA, VILLAG~1
+
+Subestación: EnelColombia/FOMEQUE, Nombre Nuevo: COVIANDES, Nombre Anterior: COVIANDES4
+	Subestaciones que matchean: CAQUEZA, CHOACHI, QUETAME, RESGUA~1
+
+Subestación: EnelColombia/FONTIBON, Nombre Nuevo: BUSFA, Nombre Anterior: BUSFA_17
+
+Subestación: EnelColombia/GACHAN~1, Nombre Nuevo: GACHANCIP, Nombre Anterior: GACHANCIP1
+
+Subestación: EnelColombia/GACHAN~1, Nombre Nuevo: GACHANCIP, Nombre Anterior: GACHANCIP2
+
+Subestación: EnelColombia/GORGON~1, Nombre Nuevo: PRIMATELA{NOAPARECEENMAPA}, Nombre Anterior: PRIMATELA{no aparece en mapa}
+
+Subestación: EnelColombia/GUACHETA, Nombre Nuevo: CAPELLANI, Nombre Anterior: CAPELLANI2
+	Subestaciones que matchean: CAPELL~1, RABANAL
+
+Subestación: EnelColombia/GUACHETA, Nombre Nuevo: CAPELLANI, Nombre Anterior: CAPELLANI3
+	Subestaciones que matchean: CAPELL~1, RABANAL
+
+Subestación: EnelColombia/GUADUAS, Nombre Nuevo: VILLETA, Nombre Anterior: VILLETA4
+	Subestaciones que matchean: ALTO_T~1, CAYUNDA, UTICA, VILLETA
+
+Subestación: EnelColombia/GUADUAS, Nombre Nuevo: VILLETA, Nombre Anterior: VILLETA8
+	Subestaciones que matchean: ALTO_T~1, CAYUNDA, UTICA, VILLETA
+
+Subestación: EnelColombia/GUATAQUI, Nombre Nuevo: GIRARDOT, Nombre Anterior: GIRARDOT2
+	Subestaciones que matchean: DIAMANTE, JMCORD~1, MANGOS, PANAGUA
+
+Subestación: EnelColombia/JAPON, Nombre Nuevo: GUACAVIA, Nombre Anterior: GUACAVIA1
+	Subestaciones que matchean: MEDINA, PARATE~1
+
+Subestación: EnelColombia/JAPON, Nombre Nuevo: GUACAVIA, Nombre Anterior: GUACAVIA2
+	Subestaciones que matchean: MEDINA, PARATE~1
+
+Subestación: EnelColombia/JAPON, Nombre Nuevo: GUACAVIA, Nombre Anterior: GUACAVIA3
+	Subestaciones que matchean: MEDINA, PARATE~1
+
+Subestación: EnelColombia/JMCORD~1, Nombre Nuevo: GIRARDOT, Nombre Anterior: GIRARDOT6
+	Subestaciones que matchean: DIAMANTE, GUATAQUI, MANGOS, PANAGUA
+
+Subestación: EnelColombia/JMCORD~1, Nombre Nuevo: PENAGUA, Nombre Anterior: PENAGUA4
+	Subestaciones que matchean: EL_HOBAL, FLANDE~2, LA_ISLA, PENALISA
+
+Subestación: EnelColombia/JMCORD~1, Nombre Nuevo: PENAGUA, Nombre Anterior: PENAGUA5
+	Subestaciones que matchean: EL_HOBAL, FLANDE~2, LA_ISLA, PENALISA
+
+Subestación: EnelColombia/JMCORD~1, Nombre Nuevo: PENAGUA, Nombre Anterior: PENAGUA6
+	Subestaciones que matchean: EL_HOBAL, FLANDE~2, LA_ISLA, PENALISA
+
+Subestación: EnelColombia/JMCORD~1, Nombre Nuevo: PENAGUA, Nombre Anterior: PENAGUA9
+	Subestaciones que matchean: EL_HOBAL, FLANDE~2, LA_ISLA, PENALISA
+
+Subestación: EnelColombia/JUNIN, Nombre Nuevo: POBLADO, Nombre Anterior: POBLADO5
+	Subestaciones que matchean: CALERA, QUIN_P~1, SUEVA, T_ESQU~1
+
+Subestación: EnelColombia/JURATENA, Nombre Nuevo: LAPALMA, Nombre Anterior: LA PALMA2
+	Subestaciones que matchean: TERRAZAS
+
+Subestación: EnelColombia/SALTO_I, Nombre Nuevo: SALTO, Nombre Anterior: SALTO_1
+

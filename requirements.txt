@@ -1,0 +1,15 @@
+# WePower Substation Management System - Requirements
+
+## Core Requirements
+- Python 3.8+
+- Tkinter (standard library)
+  - En Linux (Ubuntu/Debian) puede requerir: `sudo apt-get install python3-tk`
+
+## External Libraries (Not currently used in main scripts, but kept for processing)
+# Estas librerías se usaron en versiones experimentales de procesamiento de imágenes/PDF
+# Pillow
+# easyocr
+# pdf2image
+
+# Para ejecutar la lógica SDL:
+# No external dependencies required (uses json, collections, typing, pathlib)

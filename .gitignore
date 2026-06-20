@@ -7,13 +7,12 @@ memoria.md
 node_modules/
 .next/
 *.log
-.next/
 dist/
 *.tsbuildinfo
 
 # Archivos temporales y de datos pesados
 georeferenciados/trabajo/colombia-260209.osm.pbf
-georeferenciados/RedMT_TRAMOS_Circular014/RedMT_TRAMOS_Circular014_2023.dbfgeoreferenciados/
+georeferenciados/RedMT_TRAMOS_Circular014/RedMT_TRAMOS_Circular014_2023.dbf
 *.db
 *.sqlite
 *.sqlite3

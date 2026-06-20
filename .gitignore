@@ -1,3 +1,25 @@
+# Entornos Python
 venv/
 __pycache__/
 memoria.md
+
+# Node / Next.js
+node_modules/
+.next/
+*.log
+.next/
+dist/
+*.tsbuildinfo
+
+# Archivos temporales y de datos pesados
+georeferenciados/trabajo/colombia-260209.osm.pbf
+georeferenciados/RedMT_TRAMOS_Circular014/RedMT_TRAMOS_Circular014_2023.dbfgeoreferenciados/
+*.db
+*.sqlite
+*.sqlite3
+*.pbf
+
+# Otros artefactos generados automáticamente
+*.DS_Store
+*.env.local
+.env

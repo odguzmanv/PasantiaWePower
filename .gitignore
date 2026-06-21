@@ -22,3 +22,12 @@ georeferenciados/RedMT_TRAMOS_Circular014/RedMT_TRAMOS_Circular014_2023.dbf
 *.DS_Store
 *.env.local
 .env
+
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example

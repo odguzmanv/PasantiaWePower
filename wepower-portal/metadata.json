@@ -1,0 +1,6 @@
+{
+  "name": "WePower Portal",
+  "description": "Plataforma inteligente de gestión de comunidades energéticas para superusuarios, administradores de comunidad, prosumidores y consumidores con ajuste tarifario y facturación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
